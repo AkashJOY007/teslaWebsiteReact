@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AkashJOY007/teslaWebsiteReact/static/css/main.9f62a322.chunk.css",
+    "main.js": "/AkashJOY007/teslaWebsiteReact/static/js/main.e12e85e2.chunk.js",
+    "main.js.map": "/AkashJOY007/teslaWebsiteReact/static/js/main.e12e85e2.chunk.js.map",
+    "runtime-main.js": "/AkashJOY007/teslaWebsiteReact/static/js/runtime-main.d6eaa9e4.js",
+    "runtime-main.js.map": "/AkashJOY007/teslaWebsiteReact/static/js/runtime-main.d6eaa9e4.js.map",
+    "static/js/2.5c6b3dda.chunk.js": "/AkashJOY007/teslaWebsiteReact/static/js/2.5c6b3dda.chunk.js",
+    "static/js/2.5c6b3dda.chunk.js.map": "/AkashJOY007/teslaWebsiteReact/static/js/2.5c6b3dda.chunk.js.map",
+    "index.html": "/AkashJOY007/teslaWebsiteReact/index.html",
+    "static/css/main.9f62a322.chunk.css.map": "/AkashJOY007/teslaWebsiteReact/static/css/main.9f62a322.chunk.css.map",
+    "static/js/2.5c6b3dda.chunk.js.LICENSE.txt": "/AkashJOY007/teslaWebsiteReact/static/js/2.5c6b3dda.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/AkashJOY007/teslaWebsiteReact/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6eaa9e4.js",
+    "static/js/2.5c6b3dda.chunk.js",
+    "static/css/main.9f62a322.chunk.css",
+    "static/js/main.e12e85e2.chunk.js"
+  ]
+}
